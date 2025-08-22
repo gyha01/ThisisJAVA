@@ -1,4 +1,4 @@
-package chap6.exam01;
+package chap6.sec06.exam01;
 
 public class Car {
     // 필드 선언
