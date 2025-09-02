@@ -1,6 +1,6 @@
 package chap5;
 
-public class ArraayReferenceObjectExample {
+public class ArrayReferenceObjectExample {
     public static void main(String[] args) {
         String[] strArray = new String[3];
         strArray[0] = "Java";
