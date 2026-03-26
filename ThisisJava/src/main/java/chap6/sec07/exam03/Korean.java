@@ -7,6 +7,8 @@ public class Korean {
     String ssn;
 
     // 생성자 선언
+    // this는 현재 객체
+    // this.name은 현재 객체의 데이터(필드)의 name
     public Korean(String name, String ssn){
         this.name = name;
         this.ssn = ssn;
